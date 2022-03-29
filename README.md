@@ -12,10 +12,12 @@
 ![Akanksha's Github stats](https://github-readme-stats.vercel.app/api?username=akanksha-akkihal&count_private=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akanksha-akkihal&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-akkihal&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
+  -----
+  
 <i>Follow me around the web:</i><br>
 
-<a href="https://www.linkedin.com/in/akanksha-akkihal-ba923719b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/akanksha_akkihal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/akanksha-akkihal-ba923719b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="30px"></a>
+<a href="https://www.instagram.com/akanksha_akkihal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="30px"></a>
 
 </div>
 <!--
