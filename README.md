@@ -7,7 +7,6 @@
 <img src="https://github.com/akanksha-akkihal/akanksha-akkihal/blob/main/akanksha.gif" alt="Welcome!" width="500"/>
 
 
-
 ## 🏆 GitHub Stats
 ![Akanksha's Github stats](https://github-readme-stats.vercel.app/api?username=akanksha-akkihal&count_private=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akanksha-akkihal&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-akkihal&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
